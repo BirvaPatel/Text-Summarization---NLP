@@ -1,7 +1,4 @@
 
-
-'''Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews'''
-
 # Import attention layer
 from attention import AttentionLayer
 
